@@ -20,7 +20,7 @@ title                    : "Powered by Beans"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aree"
-description              : "Documentation of what I learn and creat"
+description              : "Documentation of what I learn and create"
 url                      : "https://areekang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
