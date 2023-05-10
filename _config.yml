@@ -279,6 +279,9 @@ defaults:
       comments: true
       share: true
       related: true
+      
+include: ["_posts"] 
+
 defaults:
   # _pages
   - scope:
@@ -288,3 +291,4 @@ defaults:
       layout: single
       author_profile: true
       
+ include: ["_pages"] 
