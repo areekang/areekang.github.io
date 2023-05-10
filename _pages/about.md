@@ -6,6 +6,7 @@ permalink: /about/
 
 ## About Me
 
+
 I’m interested in the intersection of technology and global affairs. 
 This blog is where I record all of my latest curiosities and projects. 
 
