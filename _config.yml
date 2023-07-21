@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "contrast", "dirt", "air", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Powered by Beans"
+title                    : "Powered by beans"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aree"
@@ -107,7 +107,7 @@ author:
   name             : "Aree Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "International Relations student with a security focus. Enthusiastic about tech, defense, and politics."
-  location         : "Taipei"
+  location         : "Korea"
   email            : b.kang1@lse.ac.uk
   links:
     - label: "Email"
