@@ -2,10 +2,14 @@
 main:
   - title: "About Me"
     url: https://areekang.github.io/about/
-   - title: "Categories"
-     url: /categories/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
   
+
+main: 
+  - title: "Category"
+    url: /categories/
