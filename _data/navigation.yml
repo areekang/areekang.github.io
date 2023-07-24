@@ -3,7 +3,7 @@ main:
   - title: "About Me"
     url: https://areekang.github.io/about/
    - title: "Categories"
-    url: /categories/
+     url: /categories/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
