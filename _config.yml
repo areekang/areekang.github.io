@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" # "contrast", "dirt", "air", "dark", "default", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "aqua", "dirt", "air", "dark", "default", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -20,7 +20,7 @@ title                    : "Powered by beans"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Aree"
-description              : "Documentation of what I learn and create"
+description              : #"Documentation of what I learn and create"
 url                      : "https://areekang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Aree Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "International Relations student with a security focus. Enthusiastic about tech, defense, and politics."
+  bio              : # 
   location         : "Korea"
   email            : b.kang1@lse.ac.uk
   links:
@@ -246,16 +246,16 @@ tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
+jekyll-archives:
+   enabled:
+     - categories
+     - tags
+   layouts:
+     category: archive-taxonomy
+     tag: archive-taxonomy
+   permalinks:
+     category: /categories/:name/
+     tag: /tags/:name/
 
 
 # HTML Compression
