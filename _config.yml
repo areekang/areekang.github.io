@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "aqua", "dirt", "air", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "思think"
+title                    : "woah"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "a"
+name                     : "A"
 description              : #"Documentation of what I learn and create"
 url                      : "https://areekang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aree Kang"
+  name             : "A"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : international relations student, infosec enthusiast :)
+  bio              : international relations student, infosec enthusiast
   location         : "London"
   email            : b.kang1@lse.ac.uk
   links:
