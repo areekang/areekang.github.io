@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "A"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : international relations student, infosec enthusiast
+  bio              : infosec noob project blog 
   location         : "London"
   email            : b.kang1@lse.ac.uk
   links:
@@ -124,7 +124,7 @@ author:
       # url: "https://github.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/aree-kang-875469216"
+      # url: "https://www.linkedin.com/in/aree-kang-875469216"
 
 # Site Footer
 footer:
